@@ -1,0 +1,13 @@
+# Ignore Virtual Environment folders
+venv/
+env/
+.venv/
+mediapipe_env/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
